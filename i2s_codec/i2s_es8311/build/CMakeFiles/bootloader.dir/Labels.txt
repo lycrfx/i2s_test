@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader-complete.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

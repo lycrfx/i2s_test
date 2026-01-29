@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/leo/work/i2s_test/i2s_codec/i2s_es8311/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

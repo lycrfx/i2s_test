@@ -1,0 +1,6 @@
+idf_component_register(
+    SRCS "i2s_es8311_example.c"
+    INCLUDE_DIRS "."
+    PRIV_REQUIRES espressif__es8311
+    PRIV_REQUIRES espressif__es8311
+)
