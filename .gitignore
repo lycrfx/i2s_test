@@ -88,3 +88,10 @@ tools/esp_*
 # 如果你使用 Visual Studio
 #*.sln
 #*.vcxproj*
+
+# ignore build artifacts in all subprojects
+**/build/
+**/managed_components/
+**/dependencies.lock
+**/sdkconfig
+**/sdkconfig.old
